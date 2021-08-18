@@ -1,3 +1,6 @@
+//*by yaploxoigolyb
+//this file is based on MH-Z19 sensor library
+
 #include <SoftwareSerial.h>
 SoftwareSerial mySerial(10, 11); // RX, TX
 static const int REQUEST_CNT = 9;
